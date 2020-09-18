@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MiPuppyApp</string>
+    <string name="strBienvenido">Bienvenido</string>
+    <string name="strBoton">Entrar</string>
+</resources>
